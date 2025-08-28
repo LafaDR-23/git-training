@@ -1,3 +1,3 @@
-# README KUBUNTU LAFA
+# README LUNARE LAFA
 
-## Ciao universo, questo è Kubuntu
+## Ciao spazio, siamo sulla Luna
