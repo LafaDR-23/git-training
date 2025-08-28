@@ -1,3 +1,3 @@
-# README GIT LAFA
+# README KUBUNTU LAFA
 
-## Ciao mondo, questo è Git
+## Ciao universo, questo è Kubuntu
